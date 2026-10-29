@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:30:48.169Z",
+  "generated_at": "2026-10-29T18:12:31.594Z",
   "items": {
     "problem:104": {
       "kind": "problem",
@@ -49,9 +49,9 @@
       "url": "https://www.deep-ml.com/problems/1465",
       "path": "problems/1465-vectorized-k-means-with-broadcasting",
       "first_solved_at": "2026-10-20T04:34:11.622Z",
-      "last_pushed_at": "2026-10-20T04:34:11.622Z",
+      "last_pushed_at": "2026-10-29T18:12:30.869Z",
       "language": "python",
-      "lines": 50
+      "lines": 41
     },
     "problem:17": {
       "kind": "problem",
